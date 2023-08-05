@@ -12,6 +12,18 @@
                     "uid": "net.minecraft"
                 }
             ],
+            "sha256": "c03d972b65f0b46434d9bdac5c94878061218336eaa12723aa3d293297a301c6",
+            "version": "NEO-47.1.62"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2023-07-24T21:50:51+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.1",
+                    "uid": "net.minecraft"
+                }
+            ],
             "sha256": "8d159f8a9e3d6bbc7e2401146e1dd1a540c1db048cd6a15bb54529d5bddb5388",
             "version": "47.1.43"
         },

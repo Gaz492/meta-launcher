@@ -4,9 +4,9 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "4ee5f25cc9c7efbf54aff4c695da1054c1a1d7a3",
-                    "size": 34444,
-                    "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/mmc2/ForgeWrapper-mmc2.jar"
+                    "sha1": "b38d28e8b7fde13b1bc0db946a2da6760fecf98d",
+                    "size": 34715,
+                    "url": "https://github.com/ZekerZhayard/ForgeWrapper/releases/download/1.5.6/ForgeWrapper-1.5.6.jar"
                 }
             },
             "name": "io.github.zekerzhayard:ForgeWrapper:mmc2"
