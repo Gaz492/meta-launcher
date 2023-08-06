@@ -12,7 +12,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "b8874bb16f84c8e91dfd7d74aa854fbc5be8a3eba2905951507cd9f90348d1cd",
+            "sha256": "ce26550b4dbb828c917504ea8bc1f960febf55fd0113cdd54fb876311e100eac",
             "version": "47.1.63"
         },
         {
@@ -24,7 +24,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "a29f83ed70a78f7fd5177164cba9c75dcce6f15ebde9c43359c8ee18d9244163",
+            "sha256": "948881fe8eb28b24180173a030d479f60ece7c873ed2c45197c1e86ad4f6fd35",
             "version": "47.1.62"
         },
         {
@@ -36,7 +36,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "fcc644d1e60e2a261a13c54cc6e8d80accc1f57d62efb2fff96c49aca8283b18",
+            "sha256": "fdb6985b0fe61878f71b500f7483011613145b425caf07532b3490092378b7be",
             "version": "47.1.61"
         },
         {
@@ -48,7 +48,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "051144678f070ed290d4a93208b8fff328fa89d0feaa037fa85cd967ad84c426",
+            "sha256": "616f43e18c5ef8020aed56af6b3519bdd4e07125dbf78d846bdd6ddace72b291",
             "version": "47.1.60"
         },
         {
@@ -60,7 +60,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "1ecc067a747b72ae4e5488b03e051644a94a8d2ec8c5cb5b23eed954751c2cd1",
+            "sha256": "5816a18a8fc772bc0698f805d0d677820d6e4cb8b150cddd903d18b55c1a778e",
             "version": "47.1.59"
         },
         {
@@ -72,7 +72,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "451734c746bc1572a0acf37c585ffcf21d513aee916155b610a8908b66178911",
+            "sha256": "6e980d423701b9c8ee8c3f2338f82cc5b8e7706e9f1407f92b5b4395cdb59413",
             "version": "47.1.58"
         },
         {
@@ -84,7 +84,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "2aad39f550c8d61cf9ad26c8b4fe337fca08d053cfa6bd2d82f652c018cdea3d",
+            "sha256": "b4395c2289979db7d6840de0881fa9d13679b246e7aeebfda34ac6b5d30cdf6f",
             "version": "47.1.57"
         },
         {
@@ -96,7 +96,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "831912a3f983355b31febfcfdec6a4c9197f50935d5e48a6c0d1899493262aa1",
+            "sha256": "74f7e1f3f189ebd329506f176bf836b015993b5e12420759822d2d8375d81430",
             "version": "47.1.56"
         },
         {
@@ -108,7 +108,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "e265e1bdbab2192d3dae5be473f2a5265aca23db6c1f14416d617509badf99b1",
+            "sha256": "d3639ba5e8f318ec01c8efe200787e0e4acbcca195628f4561f82b3d0f705da2",
             "version": "47.1.55"
         },
         {
@@ -120,7 +120,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "5b860a5b41c5cfa2dc6a85c809dddd4da1ccb4b6c537d2dca6ea787706c6f4f8",
+            "sha256": "b46533e7c31d3951530c3d835bd36e10d95fb26ea1f5c12791c66227ba1a81dd",
             "version": "47.1.54"
         },
         {
@@ -132,7 +132,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "ba1db16d8e219f27bdcc0de89cdb82dfb2111050addcaab15d2c2df3319bff12",
+            "sha256": "ff60df9b5fea11108ca7da365cce4c5ee72b8cb823202244f088d5baa4e9e56e",
             "version": "47.1.28"
         },
         {
@@ -144,7 +144,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "211e7f87a8a7bfcc72f9d9fafaf6e1d1d5c8837c242e91cd68427715e30e2c15",
+            "sha256": "5efb6047d8d93cb57bfb0a9ed25ee6f278b4e4cdf46bce2d5db758a157b391d0",
             "version": "47.1.27"
         },
         {
@@ -156,7 +156,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "f9361e9d02351011c983201e5bff73af40a85ade34650aa45bebf5caaa753ddd",
+            "sha256": "7f968149a54faad81a68acd11b4eac2380c573ab622830b0f05e8eee0f5f3a33",
             "version": "47.1.26"
         },
         {
@@ -168,7 +168,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "3f7207101511bef3c6621d80197647f13f394c1e98ce86360cfd357d8d705757",
+            "sha256": "611a873e2b74e92eb37229ec2e0ad9d3afe59cbeb8ef032ebf4a7012b440277b",
             "version": "47.1.25"
         },
         {
@@ -180,7 +180,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "4a9e7f760ee4ee4ea1d849585e88dd038f05a6470ef852c18081a3e46d015131",
+            "sha256": "af90a587762d3d0769eb07582c37e6c8e5f1624d5e4cc0871dfcb0e8090cc103",
             "version": "47.1.23"
         },
         {
@@ -192,7 +192,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "1139fb1157d7bbd0c23c0767a3dbf7307791b739d41b7e09d6327c2c09466565",
+            "sha256": "d149ea6dccff5c3a41582ab448b8a876b5caacbb20b6219d07ec9d4e347c57d1",
             "version": "47.1.12"
         },
         {
@@ -204,7 +204,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "b341f5525b5f54e6be37e65a01c9e7e9a8397f8dd3923978538727b929c09a5b",
+            "sha256": "abb6ab47a3925b9c63ffc74d8425600d584eb671a90353f22ddd1e2123260110",
             "version": "47.1.11"
         },
         {
@@ -216,7 +216,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "d0b5a05e178ce92a3302ac42ee644d9c313529f0ef1e654752e7c5bfd4dd90d7",
+            "sha256": "4ede1917856e5b475098576d06f5b55c1f77ad4d9b5de2ef6f8615cd75a790d7",
             "version": "47.1.9"
         },
         {
@@ -228,7 +228,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "fe8fc0c93759478d006570470ed77aca701d69c8268b531dc52b791eafab1044",
+            "sha256": "fa211cc1aa69869e1cf563a2789a8fc71ac6be5d92e9b16c1991fb34b77c4db5",
             "version": "47.1.8"
         },
         {
@@ -240,7 +240,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "3c046acdbc461dacb1d4754ce79f3feba17364403d8fb22b986a892e6147ec91",
+            "sha256": "ea8272404f88f6c54d1295ffebc78310522e7c20e2e4fcb89228bc704f3369a0",
             "version": "47.1.5"
         }
     ]
