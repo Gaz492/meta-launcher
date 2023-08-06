@@ -11,7 +11,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "81c290e526bd0ef38e43ee1956c3e0b74795111931430108b86ff0b47a15db76",
+            "sha256": "559fa69c57a26b2b513c5a79ce4f0b5adab557d515de4ac05895f77d7fd471f5",
             "type": "release",
             "version": "0.14.22"
         },
@@ -23,7 +23,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "7b7778eaf663b9d6c3e601ec689783c293715c8f05f4de097e95eb738f6400f2",
+            "sha256": "28b0bb078f0de6c4dcf679a82e22eebeccc4cd36c858d83d57dd640870d55fe9",
             "type": "release",
             "version": "0.14.21"
         },
@@ -35,7 +35,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "1443d9ba51adba947f946a35e2646c170c7e715766e14aacd3160959adaf20b3",
+            "sha256": "6ae780fdc734b8cf6e34878218d08d30731cde22b1e89a6e9a7cfaa261b5842b",
             "type": "release",
             "version": "0.14.20"
         },
@@ -47,7 +47,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "7458d3f7dbd1cde62011f4133b2316c5446a74621cabbef66a368f4389fc0496",
+            "sha256": "2711e5a1dc78cea2c3548a0491e911a9edccbb18529fa56c94d0743fccd6f2b8",
             "type": "release",
             "version": "0.14.19"
         },
@@ -59,7 +59,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "0adc8ae3d3951bcc1d5ad1fdcd55d7911ac914d66ecbc1e36543f99d1f9850ea",
+            "sha256": "9464fa5df4ac2d28cf0cd3158e3d512e578cecae1b074732d94d7b30a21bc899",
             "type": "release",
             "version": "0.14.18"
         },
@@ -71,7 +71,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "cdced5059c76765746bee6ddd245322b9c48c31b98ec57eab4e511bc228571f0",
+            "sha256": "858041c99775423edcfd30e7d1ee61fd0a9074fdcd3cd47649e02d19e67f5d8b",
             "type": "release",
             "version": "0.14.17"
         },
@@ -83,7 +83,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c1dec679b278976e23c085c19bd756aa33e6f085767dbe20049a881bb1a6c6bb",
+            "sha256": "df9796c84d941bfbce5c2f242f86acd6eca22a289d5c441a5c59fdeb2e77ee0b",
             "type": "release",
             "version": "0.14.16"
         },
@@ -95,7 +95,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "f82046d2c18b2682840f549f51e311b5dd5ac288862069b25b49a6beb0897297",
+            "sha256": "fb9c4932d79f521b4045f8ea8f1cabbe9f2f8c02e222206f0fea22efd4f2695b",
             "type": "release",
             "version": "0.14.15"
         },
@@ -107,7 +107,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "11b8eeb0922ed1bf848dbcc6041d6e13229868b1d78731d66ccecad25261d2e9",
+            "sha256": "10172270990d72797a2fa238caef1d8dc319035376c3664d4d6f28b28da10646",
             "type": "release",
             "version": "0.14.14"
         },
@@ -119,7 +119,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "2024a4b5bbb294b21610daf2a06d894235c075e9817a07f56daa2ddb2ac3b0ec",
+            "sha256": "afe6435b436a9022be4f77b600f6b4d6a6b5d88d8ea4604b9d5c0143decc07cd",
             "type": "release",
             "version": "0.14.13"
         },
@@ -131,7 +131,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "5583946c7d693e01e9540f8805e41b82abb63af84b75096f674219c74ad9d2a7",
+            "sha256": "04022b30a0082dc7474d1e70bc9ddbbb8fab7936528443486cabd7b468f0ec56",
             "type": "release",
             "version": "0.14.12"
         },
@@ -143,7 +143,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "628c2851b1ecbec2253188a8b1b09dcf5f5b3803c8c99f505209852920f6973c",
+            "sha256": "9c19445c325e22387eaf8f7302319cfd4f9a552779bc8e9cc72fab5b98484a71",
             "type": "release",
             "version": "0.14.11"
         },
@@ -155,7 +155,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "bb2392b9686dbc7951a8d8fada4581a3a7af924da228f73964c2c48fa51abc51",
+            "sha256": "91289e8451b76092529cb08d58b4f7755c5fd9adb780d20036d8334fe091a692",
             "type": "release",
             "version": "0.14.10"
         },
@@ -167,7 +167,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "389ad5d79013659a1d3fdb892a8234f61cd9fbef76ef1585e9c0c3a5ced5be3d",
+            "sha256": "4c5988aa378e6f16341713fead0789734eb0ed953890d532c1ea076d5c53e359",
             "type": "release",
             "version": "0.14.9"
         },
@@ -179,7 +179,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "829ba87ca0d04ec171c30d4710f671027eebbc005f67807f1923153a48f2b8a0",
+            "sha256": "4d98d7e9e57576b5ce4ba2415138f9356a147ad50ea28b8c66d297634b1b949c",
             "type": "release",
             "version": "0.14.8"
         },
@@ -191,7 +191,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "876432b004abb493c4b9de8ff3d54e75b83d309cfd488a3d500514647ac4ab29",
+            "sha256": "197742ae94fcfae91c40baa549892762c223ae76a6bf28c5158a5d13f33f7f82",
             "type": "release",
             "version": "0.14.7"
         },
@@ -203,7 +203,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "e36fd82c7009dacf51b44b595fa6c18397d5ce3478c0edcd3421af9e9e4f6eff",
+            "sha256": "ee7a0eb307a080a6ddcc9f5f549b2488cdd24ffe207a5e10f2b38e00a62b8840",
             "type": "release",
             "version": "0.14.6"
         },
@@ -215,7 +215,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "ff8a42f8e2e5a45fc37c3a1be59206ae5ab50762a9f9b53dabdf8c08ac0cf317",
+            "sha256": "1cd5d28599fe26377527cbd4e90e8aaf947f67e1994359afecfd2ed25d995437",
             "type": "release",
             "version": "0.14.5"
         },
@@ -227,7 +227,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "d12e42c88f1779e979aea9dae2843cba5f2fccd770d7ed1631204dfc28595bdf",
+            "sha256": "fa1b6ac255da04d3ee37aa8a2f999a3376f31b3280093ca3235230e05bd788ac",
             "type": "release",
             "version": "0.14.4"
         },
@@ -239,7 +239,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "14e5d9fb81b4dc88aedb5b9ff434a26b35e81ba38d14cdc410050aceab4746bf",
+            "sha256": "4d8a134e7b49d996bfe8871057dcf09a78a8baf958c483d1e50242a7749897b3",
             "type": "release",
             "version": "0.14.3"
         },
@@ -251,7 +251,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "8dd7d6013dee4916fe30d217fff8984aaeae785486089af719f2a802dd502216",
+            "sha256": "e90cb52a1344c1d751e3432584040c9f7f5e07ccf431796cc75427c08f77ae72",
             "type": "release",
             "version": "0.14.2"
         },
@@ -263,7 +263,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6fcd08788174209e7cc97608627ecb5846ffbb46cb324a44d2ec9df341cddc93",
+            "sha256": "86c35352c7d9f032f628bb923b2690800d594b7c29e2d341eaedf010b5bad8a9",
             "type": "release",
             "version": "0.14.1"
         },
@@ -275,7 +275,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6c3ccd1c2469f9e511403a99a1610ccfbf9b9f97d81accd87bd1fc89e164efa0",
+            "sha256": "5f42dc5662054e1630659fdca3639319a9bc85fd36835052ce56c4b4cd7c2591",
             "type": "release",
             "version": "0.14.0"
         },
@@ -287,7 +287,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c32686a30a27c3af45c95adfbb4dffb49213f30d14d81723a0cc500ce28f4716",
+            "sha256": "bbc70b89b27422d5bbd7f0d13f28da0bbe7cb77f7bf4454ba7b7cfd8d60bd850",
             "type": "release",
             "version": "0.13.3"
         },
@@ -299,7 +299,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "52fa8bc657a08c62519fdc2c1ed8da523cf45b30124c9331cad8d377baa8d942",
+            "sha256": "86602224a454506c8398b896cef7f54fa5afa577b1dfa191a5e2b583c2978fdc",
             "type": "release",
             "version": "0.13.2"
         },
@@ -311,7 +311,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6563fb037c2dffbf2ddeba03885fe7c6f450a52fc2345aa90083456acc507f68",
+            "sha256": "e3d7c4723636bb292313de229f9683e0837ba2ff68c59b9bf7c06fc07b630358",
             "type": "release",
             "version": "0.13.1"
         },
@@ -323,7 +323,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "655255f58455c1b74662abe2a455e3b674622f54d079af67268e013d28d1c9c4",
+            "sha256": "4a48bba485fd6e0c873d362c03080421a55c99a7d42edce57c0e0531e9ea4f22",
             "type": "release",
             "version": "0.13.0"
         },
@@ -335,7 +335,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "2ae22467592b6cb4026083b53ecdcd988a03bbb4fa48320f7f2fb8faffa81330",
+            "sha256": "bf3ed526f009aca99511905e237a6a95809886c6660dc6bb034a4f21a326006e",
             "type": "release",
             "version": "0.12.12"
         },
@@ -347,7 +347,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "df027c36b3e34ec2a30b8538cf0f1d60f9ff490ef4907c308d639df384151a78",
+            "sha256": "be418df1feb00f381a57d230e8a60fb7e73a74df48a3df552b80fb8516829d11",
             "type": "release",
             "version": "0.12.11"
         },
@@ -359,7 +359,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6ae3f1649c184a4514d75ea7bda9036b8b3cc146e30d33ca4ab28a8cd5897b07",
+            "sha256": "19a06dce9362f647f551a141cbdf3052c1a73a61c4a35cbe7d239a3f02a1b75e",
             "type": "release",
             "version": "0.12.10"
         },
@@ -371,7 +371,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "d6f406109964fff3081332fa9f7e69924954b63507a59590b8bdcb32b6fc3ca0",
+            "sha256": "7e8da132875b8b04120e5ed5895cfc92edd9f7bab6ca3fbea1b5654cffd0dc5e",
             "type": "release",
             "version": "0.12.9"
         },
@@ -383,7 +383,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "baae51025e6be109562ca6e90a86c8e9d07a3e0b544b1927d41b59dacfc1612e",
+            "sha256": "f06e3c104f51d17a1b2d0137a8b62f85dcaafcf41851edebb67a8386895c3da0",
             "type": "release",
             "version": "0.12.8"
         },
@@ -395,7 +395,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "84bc0c90cf47264e932540839696a07d511f5442548c6f9b71412f2056f193a7",
+            "sha256": "a92b48e137ae99200192f43aa25e78b35a8edbbabde882fc74fac96408ebf70f",
             "type": "release",
             "version": "0.12.7"
         },
@@ -407,7 +407,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c51540fdb5a84baa69afe53aad990f2224b18e95565abf9b484c687f19d18c4e",
+            "sha256": "9f08a69e8e08e71dba27ee06b48653d2a407dafda6aa05e1d460b67d44023cc9",
             "type": "release",
             "version": "0.12.6"
         },
@@ -419,7 +419,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "3672b4d7ff5683157cc12b8515ba856305a065b8a332d570a3a482486eb0eb35",
+            "sha256": "9fbceca6d1df04aa745b757e90fc0ff5df76ab5c05f533defa5ae812369ce796",
             "type": "release",
             "version": "0.12.5"
         },
@@ -431,7 +431,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "71972657eda38fa43bc02e0cb7f86e20224e709e8452c2fa41b294e4ff19eb04",
+            "sha256": "967d92b40885b3a5cb93f1906c30128c352011f3e5aaf0aeb059362fb82b4809",
             "type": "release",
             "version": "0.12.4"
         },
@@ -443,7 +443,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "51901d2703a2763d9c5939bc6e53a79a4890164cdf14fc676c79da79b3f9439d",
+            "sha256": "2eee82dc4a42a0de3561f01210d12d2a58be168cd93fce9048e9c74c9d784330",
             "type": "release",
             "version": "0.12.3"
         },
@@ -455,7 +455,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "7e6d15ccd2ea145b53a6d67113cfc7d2f323755c554e86e780cc16a570d33a06",
+            "sha256": "b6232145684ea42955f61dab7baede158dad3ccaac7b96e442f04c320af1bdac",
             "type": "release",
             "version": "0.12.2"
         },
@@ -467,7 +467,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "8bb395dea870161a6076f720b7655e631d704155a746f56adb5449a280e853c6",
+            "sha256": "bced3efe0101f710406e4fdc5e23adf350a44f8ee49d6c5af3dfa432c98a1d19",
             "type": "release",
             "version": "0.12.1"
         },
@@ -479,7 +479,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c61408cdad6c925dd6e8b6caf41ff6a71aa58f16baae1b17218be2f1b06118bb",
+            "sha256": "66dbdc8c8e980357d5bcee19fd3a4bbf1419ca1682cf2dbdc20d21ef08bf9f24",
             "type": "release",
             "version": "0.12.0"
         },
@@ -491,7 +491,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "422b389a55f5c7bf292580f24f8ccf22710aa9fa851e2f84dc007f8832d9c198",
+            "sha256": "837df79cb9947421ebe91fcd1ef21f9cb86a6fc584ef8f0cb932d923634464f1",
             "type": "release",
             "version": "0.11.7"
         },
@@ -503,7 +503,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "0ba0ef0bf23b45cf7e485c078634553077d89a61f7fc423e24b3e627bda8d278",
+            "sha256": "c60ad6e985e6240dabcbc633961b36c024e53d90344d2dc27794c498d7e06c28",
             "type": "release",
             "version": "0.11.6"
         },
@@ -515,7 +515,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "e87e80ae1341132cda82f4d44b7dc2aad9c2bf9caa40cfa79079fa12425f46b8",
+            "sha256": "43f2f8a7dd3b1891d6d6286556e3fcdd8d306b6c79ce453d61f102ea3b0d3f4f",
             "type": "release",
             "version": "0.11.5"
         },
@@ -527,7 +527,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "704b4112cda9046bc6c0bd35a4fabe84cc54dc9f80ec9ffc6ca82d1fd2138c9a",
+            "sha256": "f083650dfa8d69f1444786273d6b01a59b8e3b501220150c0d5489c1fa176de3",
             "type": "release",
             "version": "0.11.3"
         },
@@ -539,7 +539,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "2394ab7c11519eb9fa8dad3db1eaa4a5aa79ffa70cd34eb8ee593f49f488661e",
+            "sha256": "48b4085a2820bf161cb36baac3568a72ffbce857b58a614e31ddccd1081e1629",
             "type": "release",
             "version": "0.11.2"
         },
@@ -551,7 +551,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c890e0dc0b44f2bc1df13a25ce17b43e85e39a9becf741333f7d7172fbf83669",
+            "sha256": "27adad91e467a6be731fa980c369139ffc8a6258986c0e1f5d1d650fa490938d",
             "type": "release",
             "version": "0.11.1"
         },
@@ -563,7 +563,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "ba2dee1d0083f0b3c073d3d170f3d3cfc5a46a3391be9890ec3774ab2ab12380",
+            "sha256": "17c98a827280d1d878f00f0943bd28a256e78010c5add645a873a09050e24eeb",
             "type": "release",
             "version": "0.11.0"
         },
@@ -575,7 +575,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "f14084591182b23c0e0b1b96c6e3c8d58cf68ad10a88079e4a34cdc0c4db57a1",
+            "sha256": "8a2b314992a9f08dba25666ac9ba55d682c8464885b43f68ec41a5b0d97452de",
             "type": "release",
             "version": "0.10.8"
         },
@@ -587,7 +587,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "7f26282b2fa827d4f67e95d962dae80d0e050711a65f3f8b57a9170681f2e07e",
+            "sha256": "6e3ed9b8a692096e070d3fd5093545ecf3d1b915bf82178ef1aaefacd2da24f3",
             "type": "release",
             "version": "0.10.7"
         },
@@ -599,7 +599,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "0cdeb6f28eb05698d2b5a2cc9d76d24b17a231ef366968c1efe36e110e3efc14",
+            "sha256": "2d2c109c7b08d339b63ea7c8735e68cdff94ff728dee86c8d6df7b2ecb5c0d49",
             "type": "release",
             "version": "0.10.6+build.214"
         },
@@ -611,7 +611,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "28f46a446cbc1cd8f88908c58dbe35215b153a748ff26673fcb9a4ef850bb726",
+            "sha256": "052b418437ee4d366b18c570121a2d4c98df9fa47e923680c9b6f4321133a934",
             "type": "release",
             "version": "0.10.5+build.213"
         },
@@ -623,7 +623,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "f7a760b8f5ca2b472f18cdc54438d46c8351ccb75aae1f59c0fd73103efacbb7",
+            "sha256": "17404df3193b1c57733d56f3cbe0308ad97befb89f6277693370f8d0a4ef49be",
             "type": "release",
             "version": "0.10.4+build.212"
         },
@@ -635,7 +635,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6b1e7aac1c82130954c6eb73d5c98ca49baa38fab5fb1bdaaf5624447aec5d0f",
+            "sha256": "e890f2f8abbc0eb9749b68efa56388e264a96ba6766b68682ed5204959c37e4e",
             "type": "release",
             "version": "0.10.3+build.211"
         },
@@ -647,7 +647,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "83d448b039db32680936855a51fb249d1abde3309eb6375bccb937ca4b41e78b",
+            "sha256": "7527ef1eae9a534e87a2c4aedd12cea6dbf4af76fafedb5d6f7511dbfc10e94f",
             "type": "release",
             "version": "0.10.2+build.210"
         },
@@ -659,7 +659,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "e0062d4d5c5f3f0ff25b5a1826fe948e514e59f137ce818054e9f3c2494d2e88",
+            "sha256": "24d97c0c93db4ebd3efd7e305b0ade9e769b7ea7e61d486ba45553cec076eeea",
             "type": "release",
             "version": "0.10.1+build.209"
         },
@@ -671,7 +671,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6b46b5ec363a91890c3bf06c51522cf505c56fdce19666a07f31c80b2530e065",
+            "sha256": "f861fa49ee6cbb4dcfb22657192730547ec9435495e5e9c71c951880c16d065d",
             "type": "release",
             "version": "0.10.0+build.208"
         },
@@ -683,7 +683,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "a631dae768876d5103be6b57a9194e7b110d4b8c7556c8fce2c81789eaa0b595",
+            "sha256": "dcf5cdb7693aeddcecb95e9d3408a3210d6f190410506b4cb9f86d474d7c0d26",
             "type": "release",
             "version": "0.9.3+build.207"
         },
@@ -695,7 +695,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "4a6679c98ea715b256e005077c00e7672e313811b4aa1c79655b1730399a404e",
+            "sha256": "c88676297ec7a7882e9e87cd214f2dda859e01ffbc44eae5e55021209c9cb0e5",
             "type": "release",
             "version": "0.9.2+build.206"
         },
@@ -707,7 +707,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "56dcae73c7d0cbe1b39108a338a990e9258ab59766bd2525e9466c0bda0381f0",
+            "sha256": "2dbdf31ac82115f8e6fe6c936b2ac3f592e5d6d4893dbe37bab10e34b1c86f80",
             "type": "release",
             "version": "0.9.1+build.205"
         },
@@ -719,7 +719,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "4cd41c50ea20e69daf67fde4a8c6dee05c3c619fafa7a9f449470d711b3360fc",
+            "sha256": "948347061cc05832b97676ec2a93d5d26800cf4d99264f353b2c2f316ddba038",
             "type": "release",
             "version": "0.9.0+build.204"
         },
@@ -731,7 +731,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "3c045852ff19ad8f03c91072e7bfacddbfed97f0ca53003c3f4991fcc358ef09",
+            "sha256": "05b9e09ffd2996167bf83783dab0eb102d526636a404ffafe34be52e0950d156",
             "type": "release",
             "version": "0.8.9+build.203"
         },
@@ -743,7 +743,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "cc45fa54dec788a1254596ad5539638a88c1425332790e485200c3f21c7f96fd",
+            "sha256": "5d4061f2327537a26141560b3012586a7e0f8d864dfba78253195290186a53e2",
             "type": "release",
             "version": "0.8.8+build.202"
         },
@@ -755,7 +755,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "76a5e283165f43dda3e7dcf372618aac103b9fc172ed3c3aa24cd95c68a0d570",
+            "sha256": "ad04df6c285c7d719b4b651824706c5229fa783ff92664ebeade71ecf78d7889",
             "type": "release",
             "version": "0.8.7+build.201"
         },
@@ -767,7 +767,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "b23dd7eb6c49997c886fa233c873e1ad3b9c58f4909a9421e5792ede271ee710",
+            "sha256": "38787c98c287408e678b017b8c2a0a111a3a2f6a86c8b309489aad61cd9410e0",
             "type": "release",
             "version": "0.8.6+build.200"
         },
@@ -779,7 +779,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "d94492c60f4e02c351db71ca053eaf009e4f3ad918fb958699607a283e226f84",
+            "sha256": "9fef7424119b96b8a6786f06cf73fd0ff15a5c2651d01447dfae06ef32635015",
             "type": "release",
             "version": "0.8.5+build.199"
         },
@@ -791,7 +791,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "09651935dbee1ca94186c8fd824dcec6aeba77770474e1e3cfa35ce4151dfec6",
+            "sha256": "24632db82fd3b4f15c98c301616c4a3a91a4cbcf88ecc19e4df46de1d5403e13",
             "type": "release",
             "version": "0.8.4+build.198"
         },
@@ -803,7 +803,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6aafe39f64b9c016dcbb766b9775a9b7e5dbc47c2c49c9e70c3b8c84fd060f35",
+            "sha256": "6b2bb941463ce0baa191ca89d1ea175a8c77c27ae0095479c9208034916c3f36",
             "type": "release",
             "version": "0.8.3+build.196"
         },
@@ -815,7 +815,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "e27f0943cdafb28f21f4aa87c67e4a7458a946c0efabd9076a97d947f2491354",
+            "sha256": "977bb32134ec982c6c7d888fcfdc4ce14e74c0e261bc8f7b8afdde7ebdd303ca",
             "type": "release",
             "version": "0.8.2+build.194"
         },
@@ -827,7 +827,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "87b4dd1fbf368345c19eb4840432f1f2aa475ac60818594ef5c2e9184c8e9aad",
+            "sha256": "dfc5a2847bb47db8ed96db2e196715707b3557397845fd9134230f24fb6921af",
             "type": "release",
             "version": "0.8.1+build.193"
         },
@@ -839,7 +839,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "b8ea6226391bf73aa26d5c6b88c1ad351fa822d6b9bc5fdab23aea228db42df1",
+            "sha256": "a43efeaf233a4988244d919f36a737ec62cedc2a8991cdffe4608c0f67d1455c",
             "type": "release",
             "version": "0.8.0+build.192"
         },
@@ -851,7 +851,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c24178e22664ac73acbf21c72c252a2ac508c9f11190eabd91f28847e2e0fda3",
+            "sha256": "d722aa8e9db332e7fc20eca422d4c952ed777b46a39320477a45d23ca0e9bcff",
             "type": "release",
             "version": "0.7.10+build.191"
         },
@@ -863,7 +863,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c774b9c29b8c4c58bfbda96f86c56a91252290092b0fd73b29a0f5e800dc0827",
+            "sha256": "9390af24e5ee3ccf9625828c3ddb6330e32490384afedf2573d1f7e541dcb43a",
             "type": "release",
             "version": "0.7.9+build.190"
         },
@@ -875,7 +875,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "5cbb2e16517b4eb1cc78af4301ba0fc427aeb2c05eaa6584233057ae48630952",
+            "sha256": "913f895062babd248c140b6230f194585ffd74bc7232189e715d7ab4a0600a88",
             "type": "release",
             "version": "0.7.8+build.189"
         },
@@ -887,7 +887,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "5d4a86255fcb8e0b3860c942df62bcad2e8f73a0a4db677e65fe3d8a1421a6dc",
+            "sha256": "52571b3f837f38eff71aad97950f4d3f497b9750afc068880f0a6bd24f189925",
             "type": "release",
             "version": "0.7.8+build.188"
         },
@@ -899,7 +899,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "10323008666a7795a5daa0b86620e1465a25b32ee7b1f0fdb23f491575081dcb",
+            "sha256": "0ab7bdbe1de261ae9cf09c4651b55c3cf5d67bb925f12fe3fb5a35fd406a94ec",
             "type": "release",
             "version": "0.7.8+build.187"
         },
@@ -911,7 +911,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "76b3e96f5aad32b724f94cb5653423fdad958c64d804977f3530aef5500d95d9",
+            "sha256": "a53fc8fb6a06404a6288f0a66b4113bb4f2d1a84d4efc4ee514c51405242145b",
             "type": "release",
             "version": "0.7.8+build.186"
         },
@@ -923,7 +923,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c74b7694142dea24b61fb20a83b922fcb15a38779083c09562e485fdad673c87",
+            "sha256": "e40de4e28be15caf8a9d42f6f0be8028547952544078fdd5a839d249ccf6a12d",
             "type": "release",
             "version": "0.7.8+build.185"
         },
@@ -935,7 +935,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "5d971ecb421cae0ab27d3ca42d872217681de7b22d51fe952c2196d2f450cbe7",
+            "sha256": "d51a2ebae4406645a33bac282cc1ea568515f762edb12fbedc236791a5c02d3b",
             "type": "release",
             "version": "0.7.8+build.184"
         },
@@ -947,7 +947,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "339ec1d8ca2c31c72b51404ebb792025fa2ea3889e1c143d3e78e40b34919e16",
+            "sha256": "745d8a333eaeacaa074142981440572b5f9e4608176063326fbbf73820e3e2f8",
             "type": "release",
             "version": "0.7.7+build.183"
         },
@@ -959,7 +959,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "db93872b4c86803754625b3b1cdb495e597a6a9c7954568f5c1a3f3568267efd",
+            "sha256": "97fd0b8df4ef2356e6339caf0801acf36881808bc08b17b8fbbe1d9a3eb75f5b",
             "type": "release",
             "version": "0.7.7+build.182"
         },
@@ -971,7 +971,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "b3e5b01f27ee89bb06caffaeb9a98017f337ddcce8d59c97d8199da4baa6a405",
+            "sha256": "a856917345321dd6dad3823cf2a0825cef2ccc71e32192e947846eafb8ff8ccd",
             "type": "release",
             "version": "0.7.6+build.181"
         },
@@ -983,7 +983,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "21e353aa5378769a5980e74c9cad9c7b3d5938a36f5218cb4370a9bf35b4cd94",
+            "sha256": "5dd751e9de4d594316d2f1d224ab32a5d9b0539aacba3ff0640750e052b7d906",
             "type": "release",
             "version": "0.7.6+build.180"
         },
@@ -995,7 +995,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "f57ef87d9fb4d822cdfcd66c3e3163001ca31a5c2f3b64e003675d238d279ec6",
+            "sha256": "cdfd7e4d93ed63710ff8424a1498feb58f4c0d56004f79701f4af06a032daeb7",
             "type": "release",
             "version": "0.7.6+build.179"
         },
@@ -1007,7 +1007,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "9d9b48251eaeb1f828279abeb7e5d7920c77799921f7576f73d356768333de51",
+            "sha256": "1c883c61c40850449169525136478273709f1e967a2db41ab6917b6f1333405a",
             "type": "release",
             "version": "0.7.5+build.178"
         },
@@ -1019,7 +1019,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "91592de8012aed23ef1a9ab5b94aeed20423f2e3949bf18035ae05ce24396de0",
+            "sha256": "7b352e3a770103836c1973ceeeba2b329c3273f4002a1a9313b69f385452cb22",
             "type": "release",
             "version": "0.7.4+build.177"
         },
@@ -1031,7 +1031,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "4b517c70ea5c8ebe43c52e953ac9107fa5ee7b067af67c8e72d1df992ecdb3a5",
+            "sha256": "7750842825c32e5e0c027996f6680fc54f2b9b91ec8e8a2553ea242688b5990c",
             "type": "release",
             "version": "0.7.3+build.176"
         },
@@ -1043,7 +1043,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "3bab413add6b1b6ad1523886c0ea39afb33e26c34e9fd817fd4f0cb24bf814d0",
+            "sha256": "5ac4d98812d529a2a4fcc619f1955369e9787c788151bb08a8a62ddc197f2e2c",
             "type": "release",
             "version": "0.7.2+build.175"
         },
@@ -1055,7 +1055,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "a14c10dede809a3480e0f31cb5c345bc2e1391f42dc7b796054c2e390163e022",
+            "sha256": "e4e23f80140fd6c94a3d55b7382641dec9cc607b5a6a68ba20fa8d51613f7a3d",
             "type": "release",
             "version": "0.7.2+build.174"
         },
@@ -1067,7 +1067,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "ce6588190e402dab00cdca77fe9d554d197e515efd67cc332e2ae1964a258bd3",
+            "sha256": "3d5e1deeeec1e5c2f29b43c22bda662f84962564e9276279992478bb5ddf7aad",
             "type": "release",
             "version": "0.7.1+build.173"
         },
@@ -1079,7 +1079,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "24f2f57b22e5d2812dca39a37a2981f672dc70af549c45c7f86f8497c1d96e37",
+            "sha256": "b51064d0f38cdf16d544fe02966e003d0c0a1b574bb8433ecf8482161cd6bdf6",
             "type": "release",
             "version": "0.7.0+build.172"
         },
@@ -1091,7 +1091,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "512a28a65f77a8eb2b1b277b37fd7d78bf256a6cf99666f5ed1a075a4c9a540c",
+            "sha256": "3504b284216438e2a65b6cb1656b3903bf0b169da29355f8921c80ea80af8f9a",
             "type": "release",
             "version": "0.7.0+build.171"
         },
@@ -1103,7 +1103,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "7d136d670be3ab7f4f4a0cabc21520d51bdb070bfc97466e6ed48008aa8aacfb",
+            "sha256": "a18937152a13cf4b26fcf006ded55debb46d2ee9f599bb906bad5528cfb3c4e3",
             "type": "release",
             "version": "0.6.4+build.170"
         },
@@ -1115,7 +1115,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "87c0983098f769d57c74ae43f2bc4789cf5acb9d6f5dfec2ff85badc02869133",
+            "sha256": "8c77dc54856c4858f907580d7bd88e94c1105d61020076ab061f0fbf20d328ec",
             "type": "release",
             "version": "0.6.4+build.169"
         },
@@ -1127,7 +1127,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "afc64446587a026653304a7bc607b84ffbf4e20e7da6ee95c3c00a53313812e9",
+            "sha256": "31743dbb2a21f57bcc690bf27170ac3993dee2dc739cee90f4a888183f65f486",
             "type": "release",
             "version": "0.6.3+build.168"
         },
@@ -1139,7 +1139,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "dd47b98b0012df1afc59efe86486b1d82d05bc28b95924ac6664de687d5eb45c",
+            "sha256": "cb689300743f3347320e87586d2055c8718b066425c293ce626625d1fe73d900",
             "type": "release",
             "version": "0.6.3+build.167"
         },
@@ -1151,7 +1151,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "668f9e3d6da067b0b6f2c9f9274bdf976af6df07c8e722ed81145b5e2d7d0373",
+            "sha256": "9f43eaa22fa22c7cb28b0db9cb8735e453a936ca65187d2a4a37df970c35214c",
             "type": "release",
             "version": "0.6.2+build.166"
         },
@@ -1163,7 +1163,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "536ae28d1faaf24eb83bb34267298d416f87567a75f3ddcdeadbdf17c32dc804",
+            "sha256": "681b9082afee852274832db3e3cbb2dfb0ddf5ec044322fda29c2cb280df06ce",
             "type": "release",
             "version": "0.6.1+build.165"
         },
@@ -1175,7 +1175,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6d40b91e3ed8695c2a5d4f3a62ae74acc628865e63afe02432c0d03d85fad11c",
+            "sha256": "30c636684280dd9725c3003680a8909a870e1008f37d99bf15af57913e6aa816",
             "type": "release",
             "version": "0.6.1+build.164"
         },
@@ -1187,7 +1187,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "ec1b1f4f8217c5d5ce3ece1dfec9860c2f30dbead08c5debf8e898187d449583",
+            "sha256": "9f2a8540e744d93738ea3de7a58a5c486be04918fb9ab7f3e7b60ac2282f9784",
             "type": "release",
             "version": "0.6.0+build.163"
         },
@@ -1199,7 +1199,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "f4b2199ef4a1bec407417f5542dd58d2c0c7365073930c525f5fb835e0883b19",
+            "sha256": "37bc334fc329888f02f05f10d862c1fe29ec5f5e2ef8c383d457a797c49867c0",
             "type": "release",
             "version": "0.5.0+build.162"
         },
@@ -1211,7 +1211,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "4177d2e0decc6803bd64fde5f21d4d28a68dbc8225ee5fbf8a366be9ea237ba7",
+            "sha256": "2263b30e1f67d4f9f029e1d49b08e8010e8a83709fa5652f36f38be789a7f03c",
             "type": "release",
             "version": "0.4.9+build.161"
         },
@@ -1223,7 +1223,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "08e3e5f9c8f133dac36fee3b4f36d63e70552bc8e8117ea124bf46270e8dbaa3",
+            "sha256": "8b61b9b2995f9763ea636b036abe5b35f8368263d06d2a6c39a25d1b4cb5bbdf",
             "type": "release",
             "version": "0.4.9+build.160"
         },
@@ -1235,7 +1235,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "d4ca3fed38365aad066196b2119a20dc34a2f2a4a29b03a81c8ad47711015923",
+            "sha256": "7ebb18d915d01c903a828940db857d8880638aa861ee6c62c95136955a27ae09",
             "type": "release",
             "version": "0.4.8+build.159"
         },
@@ -1247,7 +1247,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "72bbac38440264cc769dd19efb0a89aa24a08ef50769777b08f55da5a65ac2a4",
+            "sha256": "cc42fc843994927d9b99c2ea6c556adb625908f69214aeace4794f972993caab",
             "type": "release",
             "version": "0.4.8+build.158"
         },
@@ -1259,7 +1259,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "19b03010c63d1d90ca384462f85acd4b3c6627beebeb393b899676aa164ae244",
+            "sha256": "38281daa18f701aab120be518586481edae1f5b66dda9ae72e0ad70b031f1b99",
             "type": "release",
             "version": "0.4.8+build.157"
         },
@@ -1271,7 +1271,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "2b2a39e54eb3e6654bfcd5103c87e791ba4da691887620c5d81e3adb3242f3a9",
+            "sha256": "47f340809d2264665adf884cb031ae095b253d64991ac869c9638af99c46a861",
             "type": "release",
             "version": "0.4.8+build.156"
         },
@@ -1283,7 +1283,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "b646f1f338a52c09609657e6d417621ea62fda3260876b0b7c56a3ecdd79f2d1",
+            "sha256": "e391a29652fd2653522530118cab2f4985b2986281f24a582f310c987c9685b3",
             "type": "release",
             "version": "0.4.8+build.155"
         },
@@ -1295,7 +1295,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "d79ccb50aab07199d126c1b283cd7ddd40674f024ab4eaefb5bf254122d14802",
+            "sha256": "21afe299b76c53874f392c4ca10df39d4dd6ac46312fc219c7ec14baf6a8192c",
             "type": "release",
             "version": "0.4.8+build.154"
         },
@@ -1307,7 +1307,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "bf4c8a9c33effe3722b2ba1384261e9c4d5fa41b469253afce1f19723ab21690",
+            "sha256": "0d485c25fe7fdc1212e3d8b1ab26c2f4dd3d41ad749d710fcf832d3da1046ec3",
             "type": "release",
             "version": "0.4.7+build.153"
         },
@@ -1319,7 +1319,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "3f80c7446cfd9159d8c3b1705c0dc18404fb09dc23948fd819a8034277b53a92",
+            "sha256": "208de7c4e9d40125c1cadaf3956fbe877d5abcc566033fef41d9b2abf4fd83c3",
             "type": "release",
             "version": "0.4.7+build.152"
         },
@@ -1331,7 +1331,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "ce98772241a06f0ef90e9b8e7937d8a890f753362a7d8bad7b0455877b244ae0",
+            "sha256": "9882a98c06972c587fabb4f96e701fb2eaa7e85b1d06c9f964db74a1f06627dc",
             "type": "release",
             "version": "0.4.7+build.148"
         },
@@ -1343,7 +1343,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6d497a8d9e4c5af717ceec7515b7421bea47aa82ff809a45d246ec44db6b6861",
+            "sha256": "d9d3d0c45aa20ee82731c47e4e1c1c69ea372d63afee2f49d6d6546314702224",
             "type": "release",
             "version": "0.4.7+build.147"
         },
@@ -1355,7 +1355,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "d13c26afb544f891ed70e26e8a66c702d8e572d2ecaa850addea82d99bb1da29",
+            "sha256": "9b372f0f8f3b37e8a837947a02b9f09363ae7443ec87b494be20dbc5a1b5ef4b",
             "type": "release",
             "version": "0.4.7+build.146"
         },
@@ -1367,7 +1367,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "d1cd929b6f37b6343d25a53e84a252cd1944a58f9615dbd02e5cb506390e7b85",
+            "sha256": "68ba19a38f37b10752ffe7f5b07ffa9cdb713b5515d2483886a4c4cb6506d8b4",
             "type": "release",
             "version": "0.4.6+build.145"
         },
@@ -1379,7 +1379,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "f901443b5c883d654b3b8035017f4bf1682bef0d085c7629f97c76ae806a9d40",
+            "sha256": "121bee66dfcdaa000a4c18500b458c3bd99388dc623b881404410ef845c84aef",
             "type": "release",
             "version": "0.4.6+build.144"
         },
@@ -1391,7 +1391,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "a7977ef45b7d6ce030b7f2ff8310d9d79746cc211afc65ee50b4b405dc90aba7",
+            "sha256": "5c31c1079a1871c03b700d9f558ed28d6a114a769f35f38ac09d9ea8cba36d60",
             "type": "release",
             "version": "0.4.6+build.143"
         },
@@ -1403,7 +1403,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "49953aaf308bd8978e2c616449cbe5b7f73b209da552dc8c69f24d64b3988cc7",
+            "sha256": "43417a91ec4d2439f9ec6889f7cf0e8e044963365e5bd422c35773d894615733",
             "type": "release",
             "version": "0.4.6+build.142"
         },
@@ -1415,7 +1415,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "2b20efed587e576411181c63f61748a4af9ec32088874963a8501a7e8ed9d152",
+            "sha256": "ab8f4390fb3b7cede133a9dfc49111fd6e4670510340be952908ddd6ef5463ea",
             "type": "release",
             "version": "0.4.6+build.141"
         },
@@ -1427,7 +1427,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "bb5e19a45e77a1d714f5f2cd854ccf3af2f093662c0b044518edf7b5064b809e",
+            "sha256": "c781d9eaf903dbdee233dc5cfea3a8b259f4b14033b807e4f571897062657975",
             "type": "release",
             "version": "0.4.5+build.140"
         },
@@ -1439,7 +1439,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "0f74d9e52416c6df286a36d0206366775be2d27f786af83f979087b0391299bd",
+            "sha256": "2f926346bafa9a5f8fb13e3824e56846c2343b94d56e0e77bf4938e0347f5e23",
             "type": "release",
             "version": "0.4.4+build.139"
         },
@@ -1451,7 +1451,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "ee46c6af917dfcd9af8d1a2f51e20b35b73e0ee0984ff0c344fb6bcfa747ae94",
+            "sha256": "757e4c364c9b49cede81d5b82f7c62823f2a54a519ef1a0716ea4b633e7e8ab7",
             "type": "release",
             "version": "0.4.4+build.138"
         },
@@ -1463,7 +1463,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "903fb0920a1c2ef14c384fde93eef10bb879526e39500f4fa72d5aa3c1762cf3",
+            "sha256": "a89feb343c57c5620ddc856bac2c0c06a70b97959131bd8c54a28a4503396fc7",
             "type": "release",
             "version": "0.4.4+build.137"
         },
@@ -1475,7 +1475,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "bbedbee6e794ddd4bb7b24c30e2221e3e0db1b2392e63973b152392014fc44bb",
+            "sha256": "4f9c979654d520906831a45a312a42d3b9437a7152ea39b9e26c65188f032f02",
             "type": "release",
             "version": "0.4.4+build.136"
         },
@@ -1487,7 +1487,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "ea47546701a931ce27f58579a49a23af6f3e865ff6db1e4c28e775c5075d4b0d",
+            "sha256": "9f1759d9f2f8accd1d16658c1f6f36ed9fc77501b2741e7204bea60b3d6627bd",
             "type": "release",
             "version": "0.4.3+build.135"
         },
@@ -1499,7 +1499,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c989a0dd938b097c98c3610b43064e7e707da0b5c1743e9eb91b7d38bf22d92d",
+            "sha256": "3c38fb1aacfe517646fb92e35e7056143e5e7afb9f78620b460ab3b34ee3d719",
             "type": "release",
             "version": "0.4.3+build.134"
         },
@@ -1511,7 +1511,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "b686024d130100f50a415265935f86b445a27a120b68bceb22f20a6d3c14851c",
+            "sha256": "ac79641093fa27667cba716ba0cf55fba91d80ae6685851c28774e1a6ec9d759",
             "type": "release",
             "version": "0.4.3+build.133"
         },
@@ -1523,7 +1523,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "87c42fbb553453f456b15b1aa5762704e0e7634d25089e5fbbef010d52ad122b",
+            "sha256": "cf342960921e460404071a5cff6c949f1c03344f4ad951cf332999593cf51892",
             "type": "release",
             "version": "0.4.2+build.132"
         },
@@ -1535,7 +1535,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "73dcfc735fdc8bce0049047fa657e1df882d5327c2d9295e8e81cd5473a7dbae",
+            "sha256": "9b4b027aefb0adeacacc51b1032aa6f9244ee5561cab3af300f273742f68d981",
             "type": "release",
             "version": "0.4.2+build.131"
         },
@@ -1547,7 +1547,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "1aa1c5336741d0adb0448547cafa2aa6e7b5d0979393f76399f623d085a1aaac",
+            "sha256": "63bcd0c75660cb4bd97e6b2c39344443bf77c2c8e9dc4c97689bb73c956e2a13",
             "type": "release",
             "version": "0.4.2+build.130"
         },
@@ -1559,7 +1559,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "d6b8fd109e828ca89470c53594bb85a8460cefbcca982e9459bcc38dce259253",
+            "sha256": "87eef8140a053481691ad61a10b0709170228019a83d984c0561e29d7cc5106d",
             "type": "release",
             "version": "0.4.1+build.129"
         },
@@ -1571,7 +1571,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "0857624f8f15c7410001f9718f66e361db5bb14c6e0dc6a8839a0f8c5942d1a9",
+            "sha256": "48441d6ab9a4c406e41948dc5127e83c475729321bd4342d6bf2372adb520c00",
             "type": "release",
             "version": "0.4.1+build.128"
         },
@@ -1583,7 +1583,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "2e4b482ae5fd94e05e87e533e10aee9b313f4897236e28d838df3a665d720d6a",
+            "sha256": "c23ce4da1b232a74cc3058faaba483b950d3269be2ba9c27e811bd59eb92097b",
             "type": "release",
             "version": "0.4.1+build.127"
         },
@@ -1595,7 +1595,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "12561d5681e2492f6cee82141bc3035e63efcc2e59ff28bb09f9fc0fa8acf269",
+            "sha256": "e1459e260e85a321c304fa1cdd67b27d33577f6dfa0d6233be7766f9676a5e53",
             "type": "release",
             "version": "0.4.1+build.126"
         },
@@ -1607,7 +1607,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c222ab91aded9f0a70d3e39d5dbcc6d441300461d62779be50cbe2b9c9826352",
+            "sha256": "09c6e8e40328de16defc954861c031a1f17f6aa85d0d5eb86985759cc1a45d87",
             "type": "release",
             "version": "0.4.1+build.125"
         },
@@ -1619,7 +1619,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "ed310636f90fad75bd3e92326b4adf910a0a572cacbd3adeeb8779bb70d7ea61",
+            "sha256": "1fa71941834102e92fe897aa02fb4307f5598e286991e9713dfc378728346fe4",
             "type": "release",
             "version": "0.4.1+build.124"
         },
@@ -1631,7 +1631,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "172bb236defaa6835abca1ea069b57da736b2c11e72946d78845774726057fba",
+            "sha256": "0f1abcad57cdae1de5fe529fdf6738d2a884d1ff3f3cb90b947e5f75c21b03ba",
             "type": "release",
             "version": "0.4.1+build.123"
         },
@@ -1643,7 +1643,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "2380c420870c296d45d13b9aff0790557e9e0cfea09f3eb4898dcca7fb961b5c",
+            "sha256": "20b5f2a36d28ae82e979a6d5d3cb0604a89f58fe6084ccc73dafbf9a59eef685",
             "type": "release",
             "version": "0.4.1+build.122"
         },
@@ -1655,7 +1655,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c6ff6edf20a3cee76466562572f1a70c014696ded9f143311c1ea0382bfc3718",
+            "sha256": "38217fb2463616e048fd3160646568c2ccc95e5b879d5d00ff1ef26a5e229720",
             "type": "release",
             "version": "0.4.0+build.121"
         },
@@ -1667,7 +1667,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "93cb1b2db70d0f6f567a70f8e26b7a1fb19fb9876ad54785c169da547365c4a8",
+            "sha256": "5b73580b778b56c31a3d2c8039462def75edc4fd7edd104be840f5932024304e",
             "type": "release",
             "version": "0.4.0+build.120"
         },
@@ -1679,7 +1679,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "2255acfc0a18b089e214e8bd888b809e8919663302bdcf61a12996f0a643a342",
+            "sha256": "29cba1d37f8326fe1864bee94495c5de6490ceac003337b2aa80a26d6b1cb978",
             "type": "release",
             "version": "0.4.0+build.119"
         },
@@ -1691,7 +1691,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6ab7325d734ae856e31e080eba4fd604ba6c3d1c9059a9238188dde29c621587",
+            "sha256": "5684a3fd7f76b3ff3e4e5bf25f45bbf5f43b4a7d7a9e89604e2bd22afedd2eee",
             "type": "release",
             "version": "0.4.0+build.118"
         },
@@ -1703,7 +1703,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "cfdf5acb819dcd0ceddedf774357bdd25c3fc073a01efb189690f16456f5ce1a",
+            "sha256": "ed938f93db457ea01a1987ec0dc370e16c2f5d0d26b3e59e3b0af73159f76aa6",
             "type": "release",
             "version": "0.4.0+build.117"
         },
@@ -1715,7 +1715,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "8f66c4f553623c210dc7c13e03c0f7f6fed8e305de4833b047db8c773abcbc70",
+            "sha256": "1286a2d8b2d7c9a00e31096b7def3c79eca52be9f9b17e51e5af74fa4f4079a9",
             "type": "release",
             "version": "0.4.0+build.116"
         },
@@ -1727,7 +1727,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "b9f037e3e85ef449976f645a3fff5a99a796348a4244679feb94ddaf969776f5",
+            "sha256": "4557ab55d00860227b7c4e4149e390778d23681ca58e21157761b362f8ac75eb",
             "type": "release",
             "version": "0.4.0+build.115"
         },
@@ -1739,7 +1739,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "1f997ab4ee5ea909387523da096cd489f783b2fa2a531eeae8744b522c077707",
+            "sha256": "f40f45e62a1cc4e1a42a09c34789d525e50c6dac5e653fb1581761c4653e7d38",
             "type": "release",
             "version": "0.4.0+build.114"
         },
@@ -1751,7 +1751,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "62a3f390909d542fce3e618a56a91096f25a2f62c7d6ba354063eb35a280ea44",
+            "sha256": "5d80a1c00a1f37eaef2c5e8a12b15bbfb6bd9ae01eefeaf20f05736eff4d941d",
             "type": "release",
             "version": "0.4.0+build.113"
         },
@@ -1763,7 +1763,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "850bed539f914d1a549763ca8860fe78dce1304c88cf3898994c8097658a9b24",
+            "sha256": "5c12053f0aec0ef734d12a5715cac15aa64ab7c4140aa73fa6fe4032b1e7c792",
             "type": "release",
             "version": "0.4.0+build.112"
         },
@@ -1775,7 +1775,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c236fad661f43113e581761e5de7450a23c0c4f316e61cca2301f4efe3292f5d",
+            "sha256": "11eae6a0a5c3c70e880aeb4c363d9fab474e918a616207b1271c8a42f7655f99",
             "type": "release",
             "version": "0.3.7.111"
         },
@@ -1787,7 +1787,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "64973a675c5bf99f700e92d00071c3db2a2a055d86c87ebffeb37dee99a6d5b9",
+            "sha256": "b32c89b713dd154bd6d879bb40252ac1963ecbd635932e3340c65d4d70a08762",
             "type": "release",
             "version": "0.3.7.110"
         },
@@ -1799,7 +1799,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "122ba87d2cab851decb87009a8410935bde1eeff82f521590bf8d4285e9e6612",
+            "sha256": "4af7ab582707c911579805e806b804eff31863dc7a8524b158d3e35faed0e303",
             "type": "release",
             "version": "0.3.7.109"
         },
@@ -1811,7 +1811,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "a479918ecc7ee80dba5c8eaeef6ef74e62d33f5a4aaa263afbb66b21a92ba45d",
+            "sha256": "11c7d1d16ffc434d4c4195d11179eb8ca0fc59c8d44948052f3e9905b89a88ec",
             "type": "release",
             "version": "0.3.7.108"
         },
@@ -1823,7 +1823,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "4f0fc5dc27832c0e747f432f274a6c8797002a846079a384ffb1150dabf45326",
+            "sha256": "34006422ca0b078d679621e85d4b6d18b2ee5256d7663518723763472a7716d5",
             "type": "release",
             "version": "0.3.6.107"
         },
@@ -1835,7 +1835,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "387576d457f461b9e5d3e22e5d44c8a2f83948b750dc4714698e45dc7984e641",
+            "sha256": "91e79d70314441d49aaca832a0cee408f3359dafc9088318c66f38a17c231e9e",
             "type": "release",
             "version": "0.3.5.106"
         },
@@ -1847,7 +1847,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "772a461eed08395603496daa019cfe94a072a51ad9d0f6aa0616035436a2275a",
+            "sha256": "cf21322b44584b42265e599cfa6eebdcd7ef651adb45f779372096dbe428fde3",
             "type": "release",
             "version": "0.3.4.105"
         },
@@ -1859,7 +1859,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "f17a6d93e014632c3c7000a8ca7bd9930f26035b75baa81a858af76ce7fdb9a2",
+            "sha256": "4e0a40f4da7c5464b49d8c27130d8b798174eef388c4d16f47b88c378ff2d81c",
             "type": "release",
             "version": "0.3.4.104"
         },
@@ -1871,7 +1871,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "574ab98e2b8e579f6bfcf8064b8e67d347dec99f65ba9665fee84f2c668534ea",
+            "sha256": "fbb28bb0ecd248dd4d6d616d956966c67387f89432e48e287c0348d2c12b5458",
             "type": "release",
             "version": "0.3.4.103"
         },
@@ -1883,7 +1883,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "ba408e56b0cc56e3763f66731c853f9c3b041128005d3845082140857cfe80c2",
+            "sha256": "bafdeb5805a7cec1acca31ac60bff5328c7e2543e83481c496909711468462e5",
             "type": "release",
             "version": "0.3.3.102"
         },
@@ -1895,7 +1895,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "824a49c05e8d47f74325ff02e1a8a4a6e9b7b72e3ed8064de5ac372c38308ed1",
+            "sha256": "96072d3ed2205bc53d751e1af51eaee8c83bf2d6181ae5c862b183ec8f97ea79",
             "type": "release",
             "version": "0.3.3.101"
         },
@@ -1907,7 +1907,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "7e4a1fb320281d824d81b85e28d35f76d88e0ddafa4381f4a2e1c9c1052043f9",
+            "sha256": "4cc702eed5caa9e171a4445b96a7cc63468f16fb46fde516cdbb28dc3d23554e",
             "type": "release",
             "version": "0.3.3.100"
         },
@@ -1919,7 +1919,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "9dfec7fb00c8ef9f97aed89302de1ac87428e8582a5e06ebd4ad8493119781b0",
+            "sha256": "76a756655785f54d8ccf8578eecd4774ab9831b26b3cf0472491560691aea9da",
             "type": "release",
             "version": "0.3.3.99"
         },
@@ -1931,7 +1931,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "3e929125ecdaa30739136c03abaf83f9af15d0c14a89543c52b65a9f99ec54b1",
+            "sha256": "9136fc76e29204700a593e4939833c220191df3afb6b1a1bdb60fbe95fe24e3a",
             "type": "release",
             "version": "0.3.3.98"
         },
@@ -1943,7 +1943,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "da5cccc9e682ecb39b8ab85f6aed5ed475abf2ca6bd08a330059507109c0863b",
+            "sha256": "3f60ee06b0375efe9991fac63764bca0f5af01167a8eaf07b9c29ac638b209f9",
             "type": "release",
             "version": "0.3.3.97"
         },
@@ -1955,7 +1955,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "10520004985bfe283cd624a1bf4e6d093b2e6e89229880b6c11fcfa196b490c3",
+            "sha256": "b37de9a911dca8eb839a5cbbdb688994d989629203ffca82b9f436182228028f",
             "type": "release",
             "version": "0.3.2.96"
         },
@@ -1967,7 +1967,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "b1ca6bfde134f5db71acf5bcfd2501700e62e476e52dae0e52fa4d485ddec795",
+            "sha256": "73bae61ad0fc517c00c6e3742f1bcb0770d1ef6b667abd49c9b09fe7c804190e",
             "type": "release",
             "version": "0.3.2.95"
         },
@@ -1979,7 +1979,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "00e2021657136eb2d288a424504f8cfa8cafb1888fa9698ca10d7224050802b6",
+            "sha256": "667dded3a330bd590257d13ea5288b16fc789c006908117375de5f7c9d9c42c2",
             "type": "release",
             "version": "0.3.2.94"
         },
@@ -1991,7 +1991,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "ebdb3bc1ae523756421705582ca9c2bbc65b02592797262b92eda11722ae3720",
+            "sha256": "50a75184775eeba229e300f2037ed4f3b93566ca5d0c7f2fb3d0ba3bf4085725",
             "type": "release",
             "version": "0.3.2.93"
         },
@@ -2003,7 +2003,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "5e2cc671a7d49a0dd98e391bd723cec793b71990e8af345e6acc1f32541ccf7d",
+            "sha256": "7a2a9aefa19b72fba35c4fc04ad30251107dca901d1f91ff721725b010d18b45",
             "type": "release",
             "version": "0.3.2.92"
         },
@@ -2015,7 +2015,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "7654d78ff68e2b1760095b9f811ae519a252b7bd1f63c9890fc71c46ebe723b5",
+            "sha256": "b935c61477149ae3b794da014eaa673d43efe31104e3be87cd368588951d936a",
             "type": "release",
             "version": "0.3.2.91"
         },
@@ -2027,7 +2027,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6afd716a7158f49d6a99c8c41b936aa319ed822854502a8276cb3625d6482400",
+            "sha256": "ae5b26492d4a4222fff45157224b35897f701e7fc36b62a772c7abaeb10ed796",
             "type": "release",
             "version": "0.3.2.90"
         },
@@ -2039,7 +2039,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "008c65162fc36e911033e087368c4fc9a5b9a363d051a05e9ceea89062c5c17d",
+            "sha256": "9fe38e97ebb59ab28476540dcdc76fb43d3906fb60258cceab3bcbbafe3b46bd",
             "type": "release",
             "version": "0.3.2.87"
         },
@@ -2051,7 +2051,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "e1745bed9b4224426289b8956fe02a3890b75b4d134542b926d65fa6b73437c9",
+            "sha256": "c1c7d0e9b621c29019709141b31a526ffb7d3b928d241892b2fe4c022de5436f",
             "type": "release",
             "version": "0.3.2.86"
         },
@@ -2063,7 +2063,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "2918d62cc98457a19a75702c6ea0bad6d68b5001aa8aa0e296618fa83b5d9ec1",
+            "sha256": "8569e19f069385124ce1cd1faf7c002df4f0f6c012ffc4ae900e7ad6365a376e",
             "type": "release",
             "version": "0.3.1.85"
         },
@@ -2075,7 +2075,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "1e8720cce917f32d41ff0d1cb08de7d1e818232a31ad992d0999faf823d9e52b",
+            "sha256": "9db94c057de7e84541b554fc757cc4a568840c5137edf33c062d6ef031b2919a",
             "type": "release",
             "version": "0.3.1.84"
         },
@@ -2087,7 +2087,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "9921d53095b13d8670617a42c22d42402f707db7033147b5c612f6ed238e78da",
+            "sha256": "20368020482e3a5bfdcb297a45640dbe2df3b2ac4cb213112e27ae5514f98905",
             "type": "release",
             "version": "0.3.1.82"
         },
@@ -2099,7 +2099,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "8e351df29b14b802ac6a7ff556fd74f342ca0135d15c0c9b4fae3f0aa742159f",
+            "sha256": "1426aa89d133207f86740fe7c11bee0448913782fc116964af74bcb1699f457a",
             "type": "release",
             "version": "0.3.1.81"
         },
@@ -2111,7 +2111,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6334c9a718e8d2c58b7d6a06c30d62813a46ea0b4c0897e8c83e6961feae7d2e",
+            "sha256": "abd133f978d4b9e06f63d995089700bc3d3da76f95cefbb825d381a8269605a3",
             "type": "release",
             "version": "0.3.1.80"
         },
@@ -2123,7 +2123,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "bf4229c5b4116e1966bf0340a0f5c98a71ca34bde41d112b30e0c1f264b3bdb5",
+            "sha256": "57f87f57c0eccdda7e9fd81fc0449be35001558e2e43c31d970a5b125616bf43",
             "type": "release",
             "version": "0.3.0.77"
         },
@@ -2135,7 +2135,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "02fa155fad73ff5d17e0157309f93377020d6954e40336be475340d449be3948",
+            "sha256": "8c463c230f25d36bc5213f9f29757a4d82f6af79204b18fe26cc8d3824833ffb",
             "type": "release",
             "version": "0.3.0.76"
         },
@@ -2147,7 +2147,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "22316aaf5ae462032b875119c28fbc987c6bff9e6723e409c8598ac715492306",
+            "sha256": "909a4ba66072a61cc3739d308b14b831c834a8cf35188995bb38b63c4ad533d1",
             "type": "release",
             "version": "0.3.0.75"
         },
@@ -2159,7 +2159,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "940e9532e0ce66418da548428e096323644d1017b949b6e4bed5a06087fbde12",
+            "sha256": "1ed31115e75a36f01fffa4adc738d9b484c42a652a906d5d62b65139bfcd6fc0",
             "type": "release",
             "version": "0.3.0.74"
         },
@@ -2171,7 +2171,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "45a586064b4648d3ac974d1c8884fc1464b3a17f449decd654b8526d134ff70e",
+            "sha256": "d4881c89d6d0da7b10d5e4e278d85893e9b3365380e567747c47f988d7578695",
             "type": "release",
             "version": "0.3.0.73"
         },
@@ -2183,7 +2183,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "5cd6056c644834f9f1af4bd9d399f72599c445816e3f10090a27ca0c51bc59af",
+            "sha256": "365c8a5ec1c1fc2adbdaa2515ddea52bdadb5a573f6fb6d8533d7d0976b1ef71",
             "type": "release",
             "version": "0.3.0.72"
         },
@@ -2195,7 +2195,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "a3ac85cbbc166f362b4e542acc739bc61772d694d13414897a0d1aef99bb63b9",
+            "sha256": "e3dd166e7824f31e743323f94d69531e07f38deb361e7cb90ccb187e13344a5d",
             "type": "release",
             "version": "0.2.0.71"
         },
@@ -2207,7 +2207,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "6d0f8f089f70ffb9ac5993dd0501702320cdf72d8bda15515a173b41d9a88aad",
+            "sha256": "1fb6441d601e798552c8b2f809b4e941953fb2b997335b9bc9a6f9a5e8e02641",
             "type": "release",
             "version": "0.2.0.70"
         },
@@ -2219,7 +2219,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "8acdfabbb001bb4bcfa831def33d07a1a3c11adda2a51258551f0bd74c4fb4cd",
+            "sha256": "419341f1d3f1580e65f5a7b34b610ab8bd0ed3e9bd447a7d83b10a0b8cfcacb9",
             "type": "release",
             "version": "0.2.0.69"
         },
@@ -2231,7 +2231,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "a9ea350a1cee7b4e897272f392b4ee6653901e3fcbcd430ef49092f9b82add0f",
+            "sha256": "06857f3f7ecd3c25c1c7ad386e3b288d69045dd1f024a5c0418ebd042a414c2d",
             "type": "release",
             "version": "0.2.0.68"
         },
@@ -2243,7 +2243,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "84db863d086eb9228dd8431fc640370e3d18148b510e46f3cef7b43827076734",
+            "sha256": "a10257465378d1c886aae02ba29973b7f3c303b88d88cdcd8e672336c8364662",
             "type": "release",
             "version": "0.2.0.67"
         },
@@ -2255,7 +2255,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "19c6f4ba1f5014b380bdfb9d69ce6c0f06b2a86fb4d99c34ec09ae9ff5f91c67",
+            "sha256": "b728628dba8e26eaa091ef9421ee2bc5c7d70e38371057f5b1a72289d0cc443d",
             "type": "release",
             "version": "0.2.0.66"
         },
@@ -2267,7 +2267,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "929129cf2ec4eb486fbe52a9af168c4e3ba8725a351df7d52d2cfd2f6d40a8ec",
+            "sha256": "5e90a1d941d341698a3f82a635aee4678b96be8cc3e5d83e978bb9596b5c5786",
             "type": "release",
             "version": "0.2.0.65"
         },
@@ -2279,7 +2279,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "b5f5e04b60d4b621970ab2a7c26cd8ec2e76074371c17cf9ef2e078151d2a4e1",
+            "sha256": "30ef4c53a82c6e7efe32a00b249d0154b45cbda4e38a63a9149e8cf5fdb36450",
             "type": "release",
             "version": "0.2.0.64"
         },
@@ -2291,7 +2291,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "1f29f15207740fb0b7d371353573e1049cfb5aed639e6c71f9701b9b35d446c5",
+            "sha256": "81bed97b87d8aacdc49cc71014b063ea9054488c79bafb1e4c98667cd67d4151",
             "type": "release",
             "version": "0.2.0.63"
         },
@@ -2303,7 +2303,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "38c39304b10f48522cb3cc5c0322e7317004d47ede2c3fe978211d35cd6f0f7b",
+            "sha256": "f6d63f28fe8ebe61a4b769674f2b56631552414fea8d1cdb9c213e73ba3debb0",
             "type": "release",
             "version": "0.2.0.62"
         },
@@ -2315,7 +2315,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c176cff52770a68e5a4537c5c941187820e7603e8be4e92774c838dcf25d2706",
+            "sha256": "cec5baa3520e678e1b981045c1ce139f226dc4a487dd3a7c16f4be1a590677f3",
             "type": "release",
             "version": "0.2.0.61"
         },
@@ -2327,7 +2327,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "0adea7aa4d852e6ad695565cb4513d9e24ea8b482a11e78b1ee3a76de18d7b56",
+            "sha256": "305c50dbb9f77b7840d50ba0da48ff2bafd2ffce7f70ca45793e75555715f755",
             "type": "release",
             "version": "0.2.0.60"
         },
@@ -2339,7 +2339,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "1340fe5eb00a40d21e3dda10cfc581d9b5ad8c5d460d928218f9fc6b15354a71",
+            "sha256": "a0b4b5a42847ab926a012f1609eb7079615eafeb011b715fd8588e472b843b49",
             "type": "release",
             "version": "0.2.0.59"
         },
@@ -2351,7 +2351,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "5b961581bd88b9278db95ed62385d2182a5614791d964ae84c001230775c2255",
+            "sha256": "1f625f44b0de1ab7b56fbe4293cef6e30e998a667d623943f3c59557c89724df",
             "type": "release",
             "version": "0.2.0.58"
         },
@@ -2363,7 +2363,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "37db3163c09dff4eba06aae0d1e3318859c4c507024651a87f71761f741f7a70",
+            "sha256": "71a9970fe5ba9dd5b1d28625229d88ba331e7fad12233acfd84670de51476118",
             "type": "release",
             "version": "0.2.0.57"
         },
@@ -2375,7 +2375,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "afa650512a4657a4486aaf38db7778e85ef04137ed70b93d8b0b0d0e942e56a9",
+            "sha256": "0a7835212f2ba371295d2f21b8e0d101265bca686b3c3c4617753018e73ec2f7",
             "type": "release",
             "version": "0.2.0.56"
         },
@@ -2387,7 +2387,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "00a9fcb20875b2234981701db21b1bd496c1979c7f1c36fc84714069d67b0160",
+            "sha256": "ab095b6e83c22024e77101aca6e3b69d983a28229338a4889e5de4ee7a654087",
             "type": "release",
             "version": "0.2.0.55"
         },
@@ -2399,7 +2399,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c9ab731e12c65ce36f563040f929ccbdf91783e308a881306ea7ebdecb44bfe7",
+            "sha256": "9ddce496da9922e0b6fff904a2bcaeb1360ab91a031a932e451a118b3b318cad",
             "type": "release",
             "version": "0.2.0.54"
         },
@@ -2411,7 +2411,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "912f174c42f02cef1640f493098a887d9509e95da70e9ada5563709bbaaf6a14",
+            "sha256": "8c9f5716d769881da1e6a1207056b5ba790dd14a0f2cc926f2e4eeea14160d34",
             "type": "release",
             "version": "0.2.0.53"
         },
@@ -2423,7 +2423,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "c62ff2751d85598b52bf9b128766281d29a3ba7546a194cfa3440c55d354a219",
+            "sha256": "676326e800a6dc34eea5b14f504680d4d2c7f322f3d75e4e72cdf31a5ae61afc",
             "type": "release",
             "version": "0.1.0.52"
         },
@@ -2435,7 +2435,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "70fead3cf37fece4e4a4bec51db1fd2eda69fdbb9c21d868a79068648fbf58b0",
+            "sha256": "1189ba643e3bf1e0d4112c076c5498c1e6a424d9b0fbe90dfc23a6635ba4b621",
             "type": "release",
             "version": "0.1.0.51"
         },
@@ -2447,7 +2447,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "cf5ef0fee5eb3a3119106a8f1aad4d8887f36f5cbd0ce90b6b7a0ef78310f4ec",
+            "sha256": "0e7ec7d2413b0658744839560282a1697ec200eefa88fc3a8546386bfa640b42",
             "type": "release",
             "version": "0.1.0.50"
         },
@@ -2459,7 +2459,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "e34e72c85efc57408fc9a37783e512dc9d0b3a4d17b0b1e283d0f4977da518a5",
+            "sha256": "29954031b6faa472dae7ba9cd5bf767a8ed0dd0aa4835d4a43f5e4ba2a3930d1",
             "type": "release",
             "version": "0.1.0.49"
         },
@@ -2471,7 +2471,7 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "55e73e3598a3d0258392cecaf2dbc3adde2baf5cd8e63b5393be68efbc391e3f",
+            "sha256": "153a0392a8750e4cf2bfee4a362f0a8f6b25d78333e85922c317c09990f479a5",
             "type": "release",
             "version": "0.1.0.48"
         }

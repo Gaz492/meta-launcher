@@ -11,7 +11,7 @@
             ],
             "recommended": false,
             "releaseTime": "2016-02-03T15:48:38+00:00",
-            "sha256": "686a4bec5b5f8db6fe2de5dc8f3a7eb7a36cd4cb8abda67bd17b9ae7c27f6b49",
+            "sha256": "de2618950dc1dc8d7b66c17fcbcf4950e68075fde9e9971883720df72468a912",
             "type": "release",
             "version": "2.9.4-nightly-20150209",
             "volatile": true
@@ -24,7 +24,7 @@
             ],
             "recommended": false,
             "releaseTime": "2015-01-30T11:58:24+00:00",
-            "sha256": "12304aa2ed4b4359fa5346cdecc18a31441feefe99b8cd85e9309cfd6fd6b3e8",
+            "sha256": "2129b799aa061439e0a2ae9eb8ab43404114992f6163d793d415f7b6e2e07d6d",
             "type": "release",
             "version": "2.9.3",
             "volatile": true
@@ -37,7 +37,7 @@
             ],
             "recommended": false,
             "releaseTime": "2014-07-23T13:15:42+00:00",
-            "sha256": "5007975762a5f29cca92179dd09bc65b2700ad0feeb75d7af49703d6508b67bc",
+            "sha256": "2d85dd77d3cd7c7fd74f0b3716b0d0bfcdcd776e6e3bfd3d47bffd370e6799b1",
             "type": "release",
             "version": "2.9.1",
             "volatile": true
@@ -50,7 +50,7 @@
             ],
             "recommended": false,
             "releaseTime": "2013-12-09T12:28:10+00:00",
-            "sha256": "9f0140c29e0e1592b99d1b7bf69247df5b4f91eeaae781c6a8256f748f8591ba",
+            "sha256": "df2197738c10f8471c7b016022b9b55ada2e8cd699936814921c1c06e987ec03",
             "type": "release",
             "version": "2.9.1-nightly-20131120",
             "volatile": true
@@ -63,7 +63,7 @@
             ],
             "recommended": false,
             "releaseTime": "2013-09-05T13:05:40+00:00",
-            "sha256": "2ad1c5f8d784de85947063cab7025f7ee6d6ddd803a4a523f2c4654bdfdebb3e",
+            "sha256": "528bb6a59d6cd86747d5c7a3c8f45d53200e79270898dbacdc3d4bafcf6a6e28",
             "type": "release",
             "version": "2.9.0",
             "volatile": true
