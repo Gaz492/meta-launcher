@@ -8,27 +8,27 @@
         },
         {
             "name": "Fabric Loader",
-            "sha256": "69645b68d33c11146e6eef538462e90d8aa8c32ab993394a7ac09b575cf515c4",
+            "sha256": "5aeb655491c8018ac31c989e46dae9b1cc05bbef9d9e6bf2b273ce96896237b1",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "792bdf8bdff7872a1778d9ec9f7c7908ff4adc7b2f3d36b59be7c93045aee949",
+            "sha256": "fe8cb4908ce7d29359b0967e8f479baa1bfd9b258d21c8f31ab5ab952324b44d",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "5fab0f32a40c36f412d28df1e3465baf62cdf50911e66a445d18bee94d1973c4",
+            "sha256": "d6f032713a182bc2ba342d60893b8505a48f5fafd971ce5630aca16fb831336e",
             "uid": "net.minecraft"
         },
         {
             "name": "Forge",
-            "sha256": "2ac027613672a5b5a3c6266b5e56d8cef7306e8e178a476315b35bccaf7a0b12",
+            "sha256": "01aafd22a13079e882fa8b299a036a3424bb5d950a60f3f958d2c3d8d07dabb0",
             "uid": "net.minecraftforge"
         },
         {
             "name": "NeoForge",
-            "sha256": "3b12404055b71a19f867b18c4a41334426e029aea6ccd27f48786c1c1740033e",
+            "sha256": "d54a879d4d7380c67afca61edd497297373e7eb3687caf6841e9155cbfbb0a1e",
             "uid": "net.neoforged"
         },
         {
@@ -38,12 +38,12 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "6f5143692a2be55dfff247f097fb7363e45832c42fc3bf090d69ec66b610e4ee",
+            "sha256": "e84dba06839ea067c759c86d38bb8712613d743997a78ad417b2ee0810474aa5",
             "uid": "org.lwjgl3"
         },
         {
             "name": "Quilt Loader",
-            "sha256": "0493aa8b08fd7d773d045475ad50efd301512de6d8a00c757dfbc7185390ad8d",
+            "sha256": "aa5d6a70bb7b3ef2eb579223064316f1040a96e7b3fbf67835ac71ea7f3dbc96",
             "uid": "org.quiltmc.quilt-loader"
         }
     ]
